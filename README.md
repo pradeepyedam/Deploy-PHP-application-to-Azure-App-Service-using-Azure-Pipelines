@@ -53,11 +53,8 @@ php/config.php
 
 3.Go to Pipelines. You should now see in progress. The changes you just made are automatically built which will be deployed via the Release pipeline. Click the ellipsis to View Pipelines results.
 
-<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/5035f42c-2234-45f3-aee4-9efee8c1133a">
-
-To Click on Run Pipline 
-
 <img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/c39603c0-29df-4ce4-a3d1-d6bf005c7b9b">
 
-
 <img width="960" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0d214c1b-bcce-4277-a702-52425909f1b6">
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/5035f42c-2234-45f3-aee4-9efee8c1133a">
