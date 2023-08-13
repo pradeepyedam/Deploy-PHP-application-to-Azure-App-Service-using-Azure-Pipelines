@@ -47,4 +47,16 @@ php/config.php
 
 <img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/765e3150-3b05-42dc-a698-7b598c080bfc">
 
+2.Scroll down to line number 11, select Edit , modify PHP to DevOps for PHP using Azure DevOps and choose Commit to save the changes to the code.
 
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0a07e407-fce3-469c-b897-e73a42832861">
+
+3.Go to Pipelines. You should now see in progress. The changes you just made are automatically built which will be deployed via the Release pipeline. Click the ellipsis to View Pipelines results.
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/5035f42c-2234-45f3-aee4-9efee8c1133a">
+
+To Run Pipline
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/c39603c0-29df-4ce4-a3d1-d6bf005c7b9b">
+
+<img width="960" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0d214c1b-bcce-4277-a702-52425909f1b6">
