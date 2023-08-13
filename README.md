@@ -45,5 +45,6 @@ The Azure DevOps Demo Generator creates a Git repository with code in your Azure
 
 php/config.php
 
-<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/012b91e6-bf0e-4622-b80e-a79fc33eaa44">
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/765e3150-3b05-42dc-a698-7b598c080bfc">
+
 
