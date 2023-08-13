@@ -19,6 +19,10 @@ Refer Getting Started before you follow the lab exercises.
 
 Exercise 1: Create a PHP application project using the Azure DevOps Demo Generator
 In this practice lab, you are going to work on a PHP project. The purpose is to create a system for the developer to understand the list of tasks that are triggered once the code is pushed to a shared repository.
+To create Azure Devops Demo Generator to sign in
+
+<img width="958" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/757c7859-bf08-496d-810c-c91b22c76924">
+
 
 While the code is a simple PHP application, you will use Azure Command Line Interface(CLI) to provision the infrastructure to deploy the build artifacts.
 
