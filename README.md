@@ -76,7 +76,7 @@ Once the build is complete, let us configure the CD pipeline. You will notice a 
 <img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/934fcb94-b452-4eb9-8188-4c748a1bc5c2">
 
 
-Go to Tasks and select Dev environment.
+2.Go to Tasks and select Dev environment.
 
 
 <img width="960" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/3bfafe33-dfb7-4636-a4e5-959d67db133e">
