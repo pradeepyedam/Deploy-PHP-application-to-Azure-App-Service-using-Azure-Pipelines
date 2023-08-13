@@ -77,3 +77,34 @@ Go to Tasks and select Dev environment.
     1.Click on the +New Service Connection button and select the Azure Resource Manager option. Provide Connection name, select the Azure Subscription from the list and then click on the Ok button. The Azure credentials will be required to authorize the connection.
 
 ![image](https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/7f9b89bc-21ff-42ed-b3d0-63a8450910ee)
+
+  If the subscription is already listed, select the Azure subscription from the list and click Authorize.
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/d10ec022-3f13-4792-a7a9-4fe2c8b6ecaf">
+
+4.Azure CLI is used in the inline script to create the following in Azure -
+
+  1.Resource Group
+  2.App Service Plan
+  3.App Service
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0e5f5ba6-af5a-45e2-97b7-189c26aa3210">
+
+5.The variables are defined in the Variables section.
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/3a40c518-6c5b-4ff5-999f-16eadf3c7444">
+
+6.Select the Azure App Service Deploy task and pick Azure subscription from the dropdown list, then click on Save.
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/3fbf2e5f-84a7-41f2-8394-d9be3aff6ab3">
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/40bd229d-8564-44c2-9fe6-f153d2b51a26">
+
+7.Queue the saved release definition to deploy the latest build artifacts to the Azure Web App.
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/05fedffa-73bf-4781-9da2-9ae6d02aa2f6">
+
+<img width="564" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/543083f0-dfec-4276-98e8-208b2e25c87b">
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/277bc0fd-95c5-4706-a026-413cba5405ce">
+
