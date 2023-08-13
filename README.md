@@ -32,6 +32,10 @@ To create on New Project then Seletcted Template,New Project Name and Selected O
 
 ![image](https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0f9beb07-ba10-4365-a00a-9d68fdf64fbf)
 
+To Click on Navigate Project then open PHPlab
+
+<img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/6469cd17-2a7d-4e9b-ad03-a6b59710aad8">
+
 Exercise 2: Commit code changes which triggers a CI build
 
 The Azure DevOps Demo Generator creates a Git repository with code in your Azure DevOps Organization. You are going to update the code and commit changes.
