@@ -28,6 +28,10 @@ To create Azure Devops Demo Generator to sign in
 
 <img width="958" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/757c7859-bf08-496d-810c-c91b22c76924">
 
+To create on New Project then Seletcted Template,New Project Name and Selected Organization then project is successfully provisioned.
+
+![image](https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0f9beb07-ba10-4365-a00a-9d68fdf64fbf)
+
 Exercise 2: Commit code changes which triggers a CI build
 
 The Azure DevOps Demo Generator creates a Git repository with code in your Azure DevOps Organization. You are going to update the code and commit changes.
