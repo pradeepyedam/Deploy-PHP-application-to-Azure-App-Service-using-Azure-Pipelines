@@ -55,8 +55,9 @@ php/config.php
 
 <img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/5035f42c-2234-45f3-aee4-9efee8c1133a">
 
-To Run Pipline
+To Click on Run Pipline 
 
 <img width="959" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/c39603c0-29df-4ce4-a3d1-d6bf005c7b9b">
+
 
 <img width="960" alt="image" src="https://github.com/pradeepyedam/Deploy-PHP-application-to-Azure-App-Service-using-Azure-Pipelines/assets/134625420/0d214c1b-bcce-4277-a702-52425909f1b6">
