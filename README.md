@@ -23,3 +23,11 @@ In this practice lab, you are going to work on a PHP project. The purpose is to 
 While the code is a simple PHP application, you will use Azure Command Line Interface(CLI) to provision the infrastructure to deploy the build artifacts.
 
 Use the Azure DevOps Demo Generator{:target="_blank"} to provision project on your Azure DevOps Organization. This URL will automatically select the PHP template in the demo generator.
+
+Exercise 2: Commit code changes which triggers a CI build
+
+The Azure DevOps Demo Generator creates a Git repository with code in your Azure DevOps Organization. You are going to update the code and commit changes.
+
+1.Navigate to Repos tab in the Azure DevOps portal and navigate to the below path to edit the file.
+
+php/config.php
