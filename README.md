@@ -100,7 +100,9 @@ Once the build is complete, let us configure the CD pipeline. You will notice a 
 4.Azure CLI is used in the inline script to create the following in Azure -
 
   1.Resource Group
+  
   2.App Service Plan
+  
   3.App Service
 
 
